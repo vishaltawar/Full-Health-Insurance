@@ -1,0 +1,23 @@
+.admin{
+    background-image: url(intro-bg.jpg);
+    background-repeat: no-repeat, repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 100px;
+    font-weight: bold;
+    
+    /*margin-top: 100px;
+    box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+     padding-top: 50px;
+    margin-bottom: 100px;*/
+    /*border-radius: 50px;*/
+}
+.admin h1, p{
+    background-color: orchid;
+    padding: 50px;
+    opacity: 0.9;
+    font-style: italic;
+    font-family: sans-serif;
+    font-weight: bolder;
+
+}

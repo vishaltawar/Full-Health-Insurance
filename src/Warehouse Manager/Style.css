@@ -1,0 +1,22 @@
+.jumbotron2{
+    background-image: url(18771.jpg);
+    background-repeat: no-repeat, repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 100px;
+    font-weight: bold;
+   
+    box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+    
+    /*margin-top: 100px;
+     padding-top: 50px;
+    margin-bottom: 100px;*/
+    /*border-radius: 50px;*/
+}
+.jumbotron2 h1, p{
+    background-color: blue;
+    color: black;
+    padding: 50px;
+    opacity: 0.6;
+    color: chartreuse;
+}

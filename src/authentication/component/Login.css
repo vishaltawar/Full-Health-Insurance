@@ -1,0 +1,24 @@
+.icon-img{
+    width: 70px;
+    height: 70px;
+    margin-bottom: 1rem;
+    margin-top: -140px;
+    
+}
+.firstcont{
+    margin-top: 100px;
+}
+
+
+.img-back{
+    width: 450px;
+    margin-left:70px;
+    height: 500px;
+}
+
+@media screen and (max-width: 480px) {
+    .img-back{
+        display: none;
+    }
+  }
+
